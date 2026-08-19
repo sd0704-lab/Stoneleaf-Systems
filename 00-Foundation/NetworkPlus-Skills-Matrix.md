@@ -1,5 +1,3 @@
-This finishes the **12th and final document in `00-Foundation`**. I’m mapping it to the current **CompTIA Network+ N10-009** skill areas: Networking Concepts, Network Implementation, Network Operations, Network Security, and Network Troubleshooting. CompTIA describes N10-009 as validating the ability to establish connectivity, maintain network documentation, work with network services and cloud/virtual networking, monitor networks, apply network hardening, and troubleshoot infrastructure. ([CompTIA Website][1])
-
 # Stoneleaf Systems — Network+ Skills Matrix
 
 ## Purpose
